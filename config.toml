@@ -33,3 +33,7 @@ title = "Mike Pettypiece"
     linkedin = "https://www.linkedin.com/in/mikepettypiece"
     twitter = "https://twitter.com/mtpettyp"
 
+    [params.contact.mastodon]
+    style = "fab"
+    link = "https://mastodon.social/@mtpettyp"
+    rel-me = true
