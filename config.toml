@@ -35,5 +35,5 @@ title = "Mike Pettypiece"
 
     [params.contact.mastodon]
     style = "fab"
-    link = "https://mastodon.social/@mtpettyp"
+    link = "https://hachyderm.io/@mtpettyp"
     rel-me = true
